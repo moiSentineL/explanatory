@@ -1,6 +1,6 @@
 # explanatory slides
 
-[![cc-by-nc-sa][https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg]][http://creativecommons.org/licenses/by-sa/4.0/]
+[![CC BY-SA 4.0][https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg]][http://creativecommons.org/licenses/by-sa/4.0/]
 
 This repository contains all of my slides/files that I used for my YouTube eduational series [Explanatory](https://youtube.com/playlist?list=PLo9XlrGEbSgj1YFpL378x3AzjmfjVzidu&si=u2IMjLpFo44J5s8S).
 
