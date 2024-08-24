@@ -14,7 +14,7 @@ then
 
 else
     echo "/src/pngs not found. Creating..."
-    mkdir "src/pngs"
+    mkdir $path
     for file in src/*.kra ; do
         suf="${file#$base}" ;
 
